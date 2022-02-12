@@ -5,7 +5,7 @@ Snake is a classical video game in which a player controls a Snake that must eat
 
 
 Language Used - Java Core
-concept Used - Swing, AWT & Basic Java Concepts
+Concept Used - Swing, AWT & Basic Java Concepts
 IDE Used - NetBeans
 
 
